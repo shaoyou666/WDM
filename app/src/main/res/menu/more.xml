@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addChannel"
+        android:orderInCategory="1"
+        android:title="增加波道"
+        />
+    <item
+        android:id="@+id/addNe"
+        android:orderInCategory="1"
+        android:title="增加网元"
+        />
+    <item
+        android:id="@+id/addSub"
+        android:orderInCategory="1"
+        android:title="增加子架"
+        />
+    <item
+        android:id="@+id/addBoardcard"
+        android:orderInCategory="1"
+        android:title="增加板卡"
+        />
+    <item
+        android:id="@+id/addPort"
+        android:orderInCategory="1"
+        android:title="增加端口"
+        />
+</menu>

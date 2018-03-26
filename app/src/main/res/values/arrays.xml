@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item">
+        <item>系统</item>
+        <item>网元</item>
+        <item>区域</item>
+    </string-array>
+    <string-array name="area">
+        <item>城区</item>
+        <item>海丰</item>
+        <item>陆丰</item>
+        <item>陆河</item>
+    </string-array>
+    
+    <string-array name="system">
+        <item>汕尾本地华为波分环10G01</item>
+        <item>汕尾本地华为波分环10G02</item>
+        <item>汕尾本地华为波分环10G03</item>
+        <item>陆丰本地华为波分环10G01</item>
+        <item>汕尾本地华为波分环100G01</item>
+    </string-array>
+    
+    <string-array name="ne">
+        <item>181-5001-汕尾香洲</item>
+        <item>181-5002-汕尾枢纽楼</item>
+        <item>181-5003-汕尾陆丰东海</item>
+        <item>181-5004-汕尾陆河河田机楼</item>
+        <item>181-5005-汕尾海丰海城</item>
+        <item>181-5006-汕尾海丰鹅埠</item>
+        <item>181-5008-汕尾陆丰东海</item>
+        <item>181-5009-汕尾枢纽楼</item>
+        <item>181-5010-汕尾香洲</item>
+        <item>181-5011-汕尾海丰海城</item>
+        <item>181-5012-汕尾陆丰东海</item>
+        <item>181-5013-汕尾陆丰博美机楼</item>
+        <item>181-5014-汕尾陆丰内湖</item>
+        <item>181-5015-汕尾陆丰南塘机楼</item>
+        <item>181-5016-汕尾陆丰新碣石机楼</item>
+        <item>181-5017-汕尾枢纽楼</item>
+        <item>181-5018-汕尾海丰后门新机楼</item>
+        <item>181-5019-汕尾海丰鹅埠</item>
+        <item>181-5020-汕尾香洲</item>
+        <item>181-5021-汕尾香洲</item>
+        <item>181-5022-汕尾枢纽楼</item>
+        <item>181-5023-汕尾枢纽楼</item>
+        <item>181-5024-汕尾海丰鹅埠机楼</item>
+        <item>181-5025-汕尾海丰鹅埠华润数据中心园区</item>
+        <item>181-5026-汕尾海丰鹅埠华润数据中心园区</item>
+        <item>181-5027-汕尾海丰小漠新机楼</item>
+        <item>181-5028-汕尾海丰后门新机楼</item>
+        <item>181-5029-汕尾海丰后门新机楼</item>
+        <item>181-5030-汕尾香洲</item>
+        <item>181-5031-汕尾枢纽楼</item>
+        <item>181-5032-汕尾海丰公平机楼</item>
+        <item>181-5033-汕尾陆丰甲子机楼</item>
+        <item>181-5034-汕尾陆丰东海</item>
+    </string-array>
+
+
+</resources>
